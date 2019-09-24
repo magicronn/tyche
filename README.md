@@ -1,4 +1,6 @@
-# Tyche - Stock &amp; Option Backtesting Framework v0.1
+# Tyche
+
+Stock &amp; Option Backtesting Framework v0.1
 
 Tyche (English: /ˈtaɪki/; Greek: Τύχη Ancient Greek: [tý.kʰɛː][1] Modern Greek: [ˈti.çi] "luck"; Roman equivalent: Fortuna) was 
 the presiding tutelary deity who governed the fortune and prosperity of a city, its destiny.
